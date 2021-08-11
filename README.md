@@ -1,6 +1,8 @@
 ## Global Relation Embedding for Relation Extraction (GloRE)
 GloRE is a relation embedding model that can be used to augment existing relation extraction models and improve their performance. Most remarkably, for the top 1,000 relational facts discovered by the best existing model (PCNN+ATT), the precision can be improved from 83.9% to 89.3%.
 
+Original Repository Located Here: https://github.com/ppuliu/GloRE.git
+
 ## Prerequisite
 * Python 2.7
 * Tensorflow 0.11
